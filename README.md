@@ -6,4 +6,4 @@
 
 
 
-![★]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/5H2/5H2/blob/main/images/introduction.png) "★")
+https://github.com/5H2/5H2/blob/main/images/introduction.png
