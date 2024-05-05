@@ -2,7 +2,8 @@
   <img src="https://github.com/5H2/5H2/assets/97614691/a05dce2e-3047-4e01-ad42-4f5d84c85546" alt="image (1)">
 </div>
 
-SPONSORED BY HTTPS://SKYBLOCKSENIORS.COM              
+> SPONSORED BY HTTPS://SKYBLOCKSENIORS.COM
+     
 ![5H2's Stats](https://github-readme-stats.vercel.app/api?username=5H2&theme=dark&show_icons=true&hide_border=false&count_private=true) 
 
 <details>
@@ -26,4 +27,9 @@ SPONSORED BY HTTPS://SKYBLOCKSENIORS.COM
 
 Please join my discord 🙏
 
-![Discord Banner 3](https://discordapp.com/api/guilds/1211338608863346838/widget.png?style=banner3)
+> https://discord.gg/yWtQ7JXx8t
+>
+> ![https://discord.gg/yWtQ7JXx8t](https://discordapp.com/api/guilds/1211338608863346838/widget.png?style=banner3)
+> 
+> https://discord.gg/yWtQ7JXx8t
+> 
